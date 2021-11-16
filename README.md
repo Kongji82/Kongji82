@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Solved ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kongji4092)](https://solved.ac/kongji4092/)
 
 <!--
