@@ -12,8 +12,6 @@
 - 제주대학교 Software System Lab 학부 연구생 (2021.09 ~ 2023.12)
 - IEEE IRC Robotics 학회 논문 게재 [Stealth UAV through Coanda Effect](https://arxiv.org/abs/2005.14629) (2020)
 - IITP-Purdue Summer Program (2019.07 ~ 2019.09)
-- 제주대학교 소프트웨어 특공대 (2019.01)
-- 교내 알고리즘 대회 1학년 금상 (2018.11)
 - 제주대학교 컴퓨터공학전공 소프트웨어학부 (2018.03 ~ 2024.02)
 
 
