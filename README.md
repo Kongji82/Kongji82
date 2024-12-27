@@ -3,9 +3,9 @@
 - 좋은 코드는 읽기 쉬운 코드라고 믿으며, 항상 깨끗하고 유지보수하기 쉬운 코드를 작성하기 위해 노력합니다.
 
 ### **💻 Work & Activities**
-- 카카오테크 부트캠프 풀스택 1회차 (2024.07 ~ 진행중)
+- 카카오테크 부트캠프 풀스택 1회차 수료 (2024.07 ~ 2024.12)
 - 구름톤 10기 최우수상 (2024.05.21 ~ 2024.05.24)
-- 카카오 현장실습 (2023.01)
+- 카카오(제주) 현장실습 (2023.01)
 - 제 10회 K-해커톤 대상 (2022.11.2)
 - 2022 카카오트랙 1학기 & 2학기 장학생 (2022)
 - 제주대학교 Software System Lab 학부 연구생 (2021.09 ~ 2023.12)
@@ -25,7 +25,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-**🛠️ Tools**
+### **🛠️ Tools**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
