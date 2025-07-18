@@ -21,6 +21,7 @@
 - [[트러블슈팅] 선착순 쿠폰 다운로드 중 연결 유실](https://github.com/2025whynot/sellect_server/wiki/%5B%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85%5D-%EC%84%A0%EC%B0%A9%EC%88%9C-%EC%BF%A0%ED%8F%B0-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EC%A4%91-%EC%97%B0%EA%B2%B0-%EC%9C%A0%EC%8B%A4)  
 - [[WHY] 결제가 마지막이어야 하는 이유
 ](https://github.com/2025whynot/sellect_server/wiki/%5BWHY%5D-%EA%B2%B0%EC%A0%9C%EA%B0%80-%EB%A7%88%EC%A7%80%EB%A7%89%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+- [[트러블슈팅] Redis Serialize Deserialize](https://github.com/tasty-savings/ts-back/wiki/Redis-Serialize-DeSerialize)
 
 ### 🖥️ Skills
 
