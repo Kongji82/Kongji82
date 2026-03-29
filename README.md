@@ -1,8 +1,7 @@
+<!--
+
 ### 🧑🏻‍💻 About me
 - 백엔드 개발자 공지혁입니다
-<!--
-- 좋은 코드는 읽기 쉬운 코드라고 생각하며, 항상 깨끗하고 유지보수하기 쉬운 코드를 작성하기 위해 노력합니다.
--->
 
 ### **💻 Work & Activities**
 - PROPECT 풀스택 개발과정 수료 (2025.02 ~ 2025.04)
@@ -31,7 +30,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) -->
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 ### **🛠️ Tools**
 
@@ -46,6 +45,8 @@
 ### 📝 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kongji4092)](https://solved.ac/profile/kongji4092/)
+
+-->
 
 <!--
 **Kongji82/Kongji82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
